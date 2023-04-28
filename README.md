@@ -4,4 +4,4 @@ This repository contains the academical material used during the lectures.
 
 
 ## 28th April 2023
-* ANN_Parthenope_20230428.pptx - slides lecture. 
+* ANN_Parthenope_28042023.pptx - slides lecture. 
