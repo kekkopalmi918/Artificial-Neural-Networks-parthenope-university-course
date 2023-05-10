@@ -13,5 +13,7 @@ This repository contains the academical material used during the lectures.
 * MedianHouseValuePreparedCleanAttributes.csv - use case attributes matrix
 * MedianHouseValueOneHotEncodedClasses.csv - use case target variables
 
+* ANN_Parthenope_Carreer_Paths.pptx - exra slides lecture
+
 ## 19th May 2023
 * Deep ANN with tanh and Keras.ipynb
