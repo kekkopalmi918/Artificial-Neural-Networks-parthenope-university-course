@@ -8,3 +8,7 @@ This repository contains the academical material used during the lectures.
 
 ## 10th May 2023
 * ANN_Parthenope_10052023.pptx - slides lecture. 
+
+* One Hidden Layer with Tensorflow.ipynb - python script for shallow ANN
+* MedianHouseValuePreparedCleanAttributes.csv - use case attributes matrix
+* MedianHouseValueOneHotEncodedClasses.csv - use case target variables
