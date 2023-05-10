@@ -12,3 +12,6 @@ This repository contains the academical material used during the lectures.
 * One Hidden Layer with Tensorflow.ipynb - python script for shallow ANN
 * MedianHouseValuePreparedCleanAttributes.csv - use case attributes matrix
 * MedianHouseValueOneHotEncodedClasses.csv - use case target variables
+
+## 19th May 2023
+* Deep ANN with tanh and Keras.ipynb
